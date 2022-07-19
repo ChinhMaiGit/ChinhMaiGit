@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my GitHub page,
+# 👋 Welcome to my GitHub page,
 
 I'm Chinh Mai, a passionate self-taught data analyst. Holding a B.Sc in Finance and Accounting and a M.Sc in International Management with a focus on Marketing, I'm interested in data analytics and learning myself to become a full-time data analyst. I love to use various analytics tools to explore my favorite topics and tell stories by visualizations. 
 
