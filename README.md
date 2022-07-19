@@ -6,7 +6,7 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 
 ![image](https://user-images.githubusercontent.com/89245616/179816268-32733077-5384-4a91-ab02-f57eb81c8e47.png)
 
-## I'm familiar with
+### I'm familiar with
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -15,13 +15,13 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 ---
 
-## My favorite Python packages
+### My favorite Python packages
 
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 ---
 
-## My toolbox
+### My toolbox
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
@@ -31,13 +31,13 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 [![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](https://www.rstudio.com/)
 ---
 
-## I'm learning from
+### I'm learning from
 
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/26659c171c685db1fbfaae941bcb0b7d)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://app.datacamp.com/profile/chinhmaiwork)
 ---
 
-## My data analytics projects 
+### My data analytics projects 
 
 * [Shopee Sales Analysis](https://chinhmaigit.github.io/Project-Excel-1/)
 * [Efficient Frontier in Excel](https://chinhmaigit.github.io/Project-Excel-2/)
@@ -47,7 +47,7 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 * [Olist public data exploratory analysis](https://chinhmaigit.github.io/Project-SQL-2/) 
 ---
 
-## Now you know about me, I would like to know more about you! Let's connect
+### Now you know about me, I would like to know more about you! Let's connect
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinhxuan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinhmai.work@gmail.com)
