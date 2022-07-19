@@ -2,7 +2,7 @@
 
 I'm Chinh Mai, a passionate self-taught data analyst. Holding a B.Sc in Finance and Accounting and a M.Sc in International Management with a focus on Marketing, I'm interested in data analytics and learning myself to become a full-time data analyst. I love to use various analytics tools to explore my favorite topics and tell stories by visualizations. 
 
-As a data enthusiast, I believe in the power of logic, data, and visualizations. With my toolbox, I can present many hidden narratives and deal with many problems proactively.
+As a data enthusiast, I believe in the power of logic, data, and visualizations. With my toolbox, I can discover many hidden narratives and deal with many problems proactively.
 
 ![image](https://user-images.githubusercontent.com/89245616/179814680-d4485941-1bf9-4610-821a-76497ab33f69.png)
 
