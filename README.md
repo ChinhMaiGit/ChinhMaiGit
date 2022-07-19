@@ -13,13 +13,11 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
----
 
 ### My favorite Python packages
 
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
----
 
 ### My toolbox
 
@@ -29,13 +27,11 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 [![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/chinh.mai#!/?newProfile=&activeTab=0)
 [![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)](https://www.rstudio.com/)
----
 
 ### I'm learning from
 
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/26659c171c685db1fbfaae941bcb0b7d)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://app.datacamp.com/profile/chinhmaiwork)
----
 
 ### My data analytics projects 
 
@@ -45,7 +41,6 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 * [Portfolio Optimization and Analysis in Python](https://chinhmaigit.github.io/Project-Python-2/)
 * [Olist public data importing](https://chinhmaigit.github.io/Project-SQL-1/)
 * [Olist public data exploratory analysis](https://chinhmaigit.github.io/Project-SQL-2/) 
----
 
 ### Now you know about me, I would like to know more about you! Let's connect
 
