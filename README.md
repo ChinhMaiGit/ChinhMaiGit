@@ -1,6 +1,10 @@
-# Hi there! Welcome to my GitHub page,
+# 👋 Hi there! Welcome to my GitHub page,
 
-I'm Chinh Mai, a passionate self-taught data analyst. Holding a B.Sc in Finance and Accounting and a M.Sc in International Management with a focus on Marketing, I'm learning myself to become a full-time data analyst. I love to use data analytics to explore my favorite topics and visualize results to tell stories. 
+I'm Chinh Mai, a passionate self-taught data analyst. Holding a B.Sc in Finance and Accounting and a M.Sc in International Management with a focus on Marketing, I'm interested in data analytics and learning myself to become a full-time data analyst. I love to use various analytics tools to explore my favorite topics and tell stories by visualizations. 
+
+As a data enthusiast, I believe in the power of logic, data, and visualizations. With my toolbox, I can present many hidden narratives and deal with many problems proactively.
+
+![image](https://user-images.githubusercontent.com/89245616/179814680-d4485941-1bf9-4610-821a-76497ab33f69.png)
 
 ## I'm familiar with
 
@@ -43,8 +47,7 @@ I'm Chinh Mai, a passionate self-taught data analyst. Holding a B.Sc in Finance 
 * [Olist public data exploratory analysis](https://chinhmaigit.github.io/Project-SQL-2/) 
 ---
 
-
-Let's connect!
+## Now you know about me, I would like to know more about you! Let's connect
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinhxuan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinhmai.work@gmail.com)
