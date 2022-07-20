@@ -33,7 +33,7 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/26659c171c685db1fbfaae941bcb0b7d)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://app.datacamp.com/profile/chinhmaiwork)
 
-### My data analytics projects 
+### My favorite projects 
 
 * [Shopee Sales Analysis](https://chinhmaigit.github.io/Project-Excel-1/)
 * [Efficient Frontier in Excel](https://chinhmaigit.github.io/Project-Excel-2/)
@@ -41,6 +41,8 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 * [Portfolio Optimization and Analysis in Python](https://chinhmaigit.github.io/Project-Python-2/)
 * [Olist public data importing](https://chinhmaigit.github.io/Project-SQL-1/)
 * [Olist public data exploratory analysis](https://chinhmaigit.github.io/Project-SQL-2/) 
+
+and find more on my project page: [Data Analytics Portfolio](https://chinhmaigit.github.io/data-analytics-portfolio/)
 
 ### Now you know about me, I would like to know more about you! Let's connect
 
