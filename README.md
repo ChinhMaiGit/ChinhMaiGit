@@ -4,7 +4,7 @@ I'm Chinh Mai, a passionate self-taught data analyst. Holding a B.Sc in Finance 
 
 As a data enthusiast, I believe in the power of logic, data, and visualizations. With my toolbox, I can discover many hidden narratives and deal with many problems proactively.
 
-![Analytics_tools-removebg-preview](https://user-images.githubusercontent.com/89245616/179867815-0bebb02a-7ea8-4585-8639-63e64721f46e.png)
+![My project2](https://user-images.githubusercontent.com/89245616/179873699-45664253-f6f8-4e57-9356-332b46841563.png)
 
 ### I'm familiar with
 
