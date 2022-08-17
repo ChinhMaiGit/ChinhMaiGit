@@ -41,6 +41,7 @@ As a data enthusiast, I believe in the power of logic, data, and visualizations.
 * [Portfolio Optimization and Analysis in Python](https://chinhmaigit.github.io/Project-Python-2/)
 * [Olist public data importing](https://chinhmaigit.github.io/Project-SQL-1/)
 * [Olist public data exploratory analysis](https://chinhmaigit.github.io/Project-SQL-2/) 
+* [GDPR fines data analysis](https://chinhmaigit.github.io/Project-PowerBI-1/)
 
 and find more on my project page: [Data Analytics Portfolio](https://chinhmaigit.github.io/)
 
